@@ -7,7 +7,8 @@ public class Main {
         String cars[][] = {
                 {"Ford", "Porsche", "Corolla", "Jeep", "Ranger"},
                 {"Chevrolette", "Audi", "Lexus", "BMW", "Ferrari"},
-                {"Mahindra", "Toyota", "Isuzu", "Kia", "Haval"}
+                {"Mahindra", "Toyota", "Isuzu", "Kia", "Haval"},
+                {"Astra", "Dodge", "Volkswagen", "", "Honda"}
         };
 
         for (int i = 0; i < cars.length; i++) {
